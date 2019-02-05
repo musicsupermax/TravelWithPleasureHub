@@ -1,0 +1,19 @@
+.thumbnail-container {
+	position: relative;
+}
+
+.thumbnail-info {
+	bottom: 0;
+	width: 100%;
+	position: absolute;
+	background: rgba(255, 255, 255, .7);
+	transition: 0.3s;
+}
+
+#thumbnail-container:hover > #thumbnail-info {
+	background: rgba(255, 255, 255, 1);
+}
+
+.text-black {
+	color: black;
+}

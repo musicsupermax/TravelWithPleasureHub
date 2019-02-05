@@ -1,0 +1,19 @@
+.background{
+	font-family: 'PT Sans', sans-serif;
+	background-size: cover;
+	background-image:url('../image/background.jpg');
+	height: 93vh;
+}
+
+.meetingForm{
+	background-color:white;
+	opacity: 0.95;
+	padding: 40px;
+	border-radius: 6px;
+	width: 130vh;
+}
+
+.widthButton {
+	width: 39vh;
+}
+

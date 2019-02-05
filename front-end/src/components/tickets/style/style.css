@@ -1,0 +1,29 @@
+/*.card {
+    border: 3px solid #c3c6cc;
+    border-radius: 3px;
+    transition: box-shadow .3s ease-in-out;
+}*/
+
+/*
+.border {
+    border: 4px solid #c3c6cc;
+    border-radius: 3px;
+    transition: box-shadow .3s ease-in-out;
+}
+*/
+
+.back {
+    background: #cff1ff;
+}
+
+.card:hover {
+    background-color: #d4f0ef;
+}
+
+.color {
+    color: #da9f1b;
+}
+
+.textColour{
+    color: chartreuse;
+}
